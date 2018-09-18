@@ -1,2 +1,1 @@
-# nspde
-Numerical Solution of Partial Differntial Equations
+# Numerical Solution of Partial Differntial Equations
